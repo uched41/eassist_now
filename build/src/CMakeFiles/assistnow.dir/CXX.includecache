@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ched/Desktop/Erik/assistnow/src/main.cpp
+stdio.h
+/home/ched/Desktop/Erik/assistnow/src/stdio.h
+

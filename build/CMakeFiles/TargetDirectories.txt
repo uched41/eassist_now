@@ -1,0 +1,5 @@
+/home/ched/Desktop/Erik/assistnow/build/CMakeFiles/rebuild_cache.dir
+/home/ched/Desktop/Erik/assistnow/build/CMakeFiles/edit_cache.dir
+/home/ched/Desktop/Erik/assistnow/build/src/CMakeFiles/rebuild_cache.dir
+/home/ched/Desktop/Erik/assistnow/build/src/CMakeFiles/assistnow.dir
+/home/ched/Desktop/Erik/assistnow/build/src/CMakeFiles/edit_cache.dir
