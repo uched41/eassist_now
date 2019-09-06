@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11  -rdynamic CMakeFiles/util_tests.dir/util_tests.cpp.o  -o ../../bin/util_tests -Wl,-rpath,/home/ched/Desktop/Erik/assistnow/build/lib ../../lib/libtest_server.a ../../lib/libgtest.a ../../lib/libcpr.a ../../lib/libmongoose.a ../../lib/libcurl.so -ldl -lpthread -lssl -lcrypto -lz 

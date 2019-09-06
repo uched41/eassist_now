@@ -1,0 +1,9 @@
+[submodule "cpr"]
+	path = cpr
+	url = https://github.com/whoshuu/cpr.git
+[submodule "serial"]
+	path = serial
+	url = https://github.com/wjwwood/serial.git
+[submodule "RS-232"]
+	path = RS-232
+	url = https://gitlab.com/Teuniz/RS-232.git

@@ -1,1 +1,1 @@
-/usr/bin/c++     CMakeFiles/assistnow.dir/main.cpp.o  -o assistnow 
+/usr/bin/c++     CMakeFiles/assistnow.dir/main.cpp.o CMakeFiles/assistnow.dir/rs232.c.o  -o assistnow -Wl,-rpath,/home/ched/Desktop/Erik/assistnow/build/lib ../lib/libcpr.a ../lib/libcurl.so -ldl -lpthread /usr/lib/x86_64-linux-gnu/libssl.so /usr/lib/x86_64-linux-gnu/libcrypto.so -lz 
